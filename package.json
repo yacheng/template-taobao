@@ -3,11 +3,12 @@
   "author": "yacheng.sz",
   "version": "0.7.0",
   "snapshots": [
-    "//img.alicdn.com/tfs/TB15xZ1QVXXXXcOapXXXXXXXXXX-1242-2013.jpg",
-    "//img.alicdn.com/tfs/TB1pYFCRXXXXXaYXpXXXXXXXXXX-1242-2012.jpg",
-    "//img.alicdn.com/tfs/TB1bxNdRXXXXXc1XVXXXXXXXXXX-1242-2018.jpg"
+    "//gw.alicdn.com/tfs/TB12WTDQXXXXXXWapXXXXXXXXXX-300-200.png",
+    "//gw.alicdn.com/tfs/TB10fVvQXXXXXcWXXXXXXXXXXXX-377-667.png",
+    "//gw.alicdn.com/tfs/TB119sRPVXXXXcUXVXXXXXXXXXX-376-668.png",
+    "//gw.alicdn.com/tfs/TB13rdlQXXXXXbbXpXXXXXXXXXX-376-669.png"
   ],
-  "description": "表单类应用",
+  "description": "购物类应用",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/raxjs/template-taobao.git"
